@@ -76,7 +76,7 @@ Through rigorous offline evaluation using **Strong Generalization** (disjoint us
 
 2. **The "Sweet Spot":** Applying MMR with **$\lambda=0.7$** is the Pareto-optimal solution.
 
-   * **Diversity Gain:** +11% (ILD increased from 0.62 to 0.69).
+   * **Diversity Gain:** +7% (ILD increased from 0.62 to 0.69).
 
    * **Accuracy Loss:** < 4% (NDCG dropped slightly from 0.37 to 0.35).
 
